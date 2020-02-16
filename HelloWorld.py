@@ -3,6 +3,7 @@
 # Date: 16th February 2020
 
 import datetime
+import mysql.connector
 
 todays_date = datetime.datetime.now()
 print("Hello World on  the ", todays_date)
