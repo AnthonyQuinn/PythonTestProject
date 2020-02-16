@@ -4,4 +4,8 @@
 
 import datetime
 todays_date = datetime.datetime.now()
-print("Hell World on  the ",todays_date)
+print("Hello World on  the ",todays_date)
+
+
+
+'''This is just to check that the second committe is working'''
