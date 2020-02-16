@@ -9,3 +9,6 @@ print("Hello World on  the ",todays_date)
 
 
 '''This is just to check that the second committe is working'''
+
+
+'''What a day, what a stormy day'''
