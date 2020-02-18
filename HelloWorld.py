@@ -14,3 +14,5 @@ print("Hello World on  the ", todays_date)
 
 q_request = input("What day is it today:")
 print("It's ??:", q_request)
+
+'''This is just another bit of text to check that all is well/working'''
